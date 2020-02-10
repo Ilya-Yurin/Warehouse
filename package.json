@@ -1,0 +1,24 @@
+{
+  "name": "warehouse",
+  "version": "1.0.0",
+  "description": "This is a simple warehouse management application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Ilya-Yurin/Warehouse.git"
+  },
+  "keywords": [
+    "reactjs",
+    "typescript",
+    "test"
+  ],
+  "author": "Ilay Yurin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ilya-Yurin/Warehouse/issues"
+  },
+  "homepage": "https://github.com/Ilya-Yurin/Warehouse#readme"
+}
